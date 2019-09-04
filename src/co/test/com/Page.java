@@ -32,7 +32,7 @@ public class Page {
 		u2.setEmail("234@234.com");
 		System.out.println(u1.getEmail());
 		
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Samuel.Uche\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\name\\Downloads\\chromedriver_win32\\chromedriver.exe");
 		 
 		// Initialize browser
 		WebDriver driver=new ChromeDriver();
